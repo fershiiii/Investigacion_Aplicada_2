@@ -1,0 +1,8 @@
+{
+  "sensor": {
+    "temperature": 31.5,
+    "humidity": 47,
+    "status": "ERROR"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
